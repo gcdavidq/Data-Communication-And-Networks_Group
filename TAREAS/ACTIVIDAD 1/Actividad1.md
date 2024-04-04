@@ -60,15 +60,16 @@ Use la línea de comandos para verificar la configuración de la PC y la conecti
 1. En la ventana de comandos de packet tracer, puedes introducir comandos directamente en la PC y ver los resultados de esos comandos. Verifique la configuración de la PC mediante el comando **ipconfig /all**. Este comando muestra información sobre el nombre del host de la PC y la dirección IPv4. 
 1. Escriba **ping 192.168.1.11** y presione Intro. 
 
-   ¿Fueron correctos los resultados del ping? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+   ¿Fueron correctos los resultados del ping? 
+   No, aparece 100% loss, lo que implica que se perdieron todos los archivos que enviaron.
 
 4. Repite los pasos anteriores para PC-B 
 
-   ¿Fueron correctos los resultados del ping? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+   ¿Fueron correctos los resultados del ping? 
+   Tampoco no, ocurrió lo mismo que con la PCA
 
    **Nota**: Si no obtuvo una respuesta de PC-B, intente hacer ping a PC-B nuevamente. Si sigue sin obtener respuesta de PC-B, intente enviar un comando ping a PC-A desde PC-B.
 
-1![](Aspose.Words.8809b733-b1c9-4c4f-a744-10ca08d8b7d6.003.png)
 
 1 Esta actividad está basada en el curso Networking Essential de  Cisco y/o sus filiales. Todos los derechos reservados. 
 Comunicación de Datos y Redes 

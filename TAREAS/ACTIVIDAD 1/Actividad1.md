@@ -61,11 +61,13 @@ Use la línea de comandos para verificar la configuración de la PC y la conecti
 1. Escriba **ping 192.168.1.11** y presione Intro. 
 
    ¿Fueron correctos los resultados del ping? 
+   
    No, aparece 100% loss, lo que implica que se perdieron todos los archivos que enviaron.
 
 4. Repite los pasos anteriores para PC-B 
 
    ¿Fueron correctos los resultados del ping? 
+   
    Tampoco no, ocurrió lo mismo que con la PCA
 
    **Nota**: Si no obtuvo una respuesta de PC-B, intente hacer ping a PC-B nuevamente. Si sigue sin obtener respuesta de PC-B, intente enviar un comando ping a PC-A desde PC-B.

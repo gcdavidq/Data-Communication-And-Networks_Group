@@ -62,16 +62,12 @@ Use la línea de comandos para verificar la configuración de la PC y la conecti
 
    ¿Fueron correctos los resultados del ping? 
    
-   No, aparece 100% loss, lo que implica que se perdieron todos los archivos que enviaron.
+   *No, aparece 100% loss, lo que implica que se perdieron todos los archivos que enviaron.*
 
-4. Repite los pasos anteriores para PC-B 
+4. **Repite los pasos anteriores para PC-B** 
 
-   ¿Fueron correctos los resultados del ping? 
+   **¿Fueron correctos los resultados del ping?** 
    
-   Tampoco no, ocurrió lo mismo que con la PCA
+   *Tampoco no, ocurrió lo mismo que con la PCA*
 
    **Nota**: Si no obtuvo una respuesta de PC-B, intente hacer ping a PC-B nuevamente. Si sigue sin obtener respuesta de PC-B, intente enviar un comando ping a PC-A desde PC-B.
-
-
-1 Esta actividad está basada en el curso Networking Essential de  Cisco y/o sus filiales. Todos los derechos reservados. 
-Comunicación de Datos y Redes 

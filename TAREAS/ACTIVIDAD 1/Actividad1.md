@@ -1,4 +1,5 @@
 ![](Aspose.Words.8809b733-b1c9-4c4f-a744-10ca08d8b7d6.001.png)
+
 **Departamento Académico de Ingeniería C8280 -Comunicación de Datos y Redes**  
 
 **Actividad 1: Creación de una red simple** 

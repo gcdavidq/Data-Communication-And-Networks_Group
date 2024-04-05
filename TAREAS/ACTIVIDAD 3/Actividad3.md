@@ -144,55 +144,65 @@ Si, dicha acción o alerta se produjo porque se enviaban paquetes a componenetes
 
 
 9. Al examinar la ficha **PDU Details (Detalles de PDU)**, ¿qué dirección MAC aparecía primero, la de origen o la de destino?
- Si
+ La del destino.
 \***
 
 
 10. ¿Por qué las direcciones MAC aparecen en este orden?
+Si se conoce primero la dirección de disposito receptor, se enviará el paquete de manera mas rapida.
 \***
 
 
 11. ¿Había un patrón para el direccionamiento MAC en la simulación?
+No
 \***
 
 
 12. ¿Los switches reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?
+No, ya que ellos si reenvian los paquetes a su receptor o destino.
 \***
 
 
 13. Cada vez que se enviaba la PDU entre las redes 10 y 172, había un punto donde las direcciones MAC cambiaban repentinamente.  ¿Dónde ocurrió eso?
+Si, ocurrió en el Router
 \***
 
-
+ub
 14. ¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA? 
+El router.
 \***
 
 
 15. ¿A qué dispositivos pertenecían las otras direcciones MAC?
+Pertenecían a direcciones emisoras y receptoras (Switches, laptops, PC, HUB)
 \***
 
 
 16. ¿Las direcciones IPv4 de envío y recepción cambiaron los campos en alguna de las PDU?
+No
 \***
 
 
 17. Cuando sigue la respuesta a un ping, a veces llamado *pong*, ¿ve el cambio de envío y recepción de direcciones IPv4?
+Si
 \***
 
 
 18. ¿Cuál es el patrón para el direccionamiento IPv4 utilizado en esta simulación?
+Cada puerto del router necesita direcciones que no se superpongan, tanto para una red como para otra.
 \***
 
 
 19. ¿Por qué es necesario asignar diferentes redes IP a los diferentes puertos de un router?
+Para poder interconectar las 2 redes que existen en la simulación.
 \***
 
 
 20. Si esta simulación se configura con IPv6 en lugar de IPv4, ¿cuál sería la diferencia?
+Solo variaria la forma en como se manejan los paquetes, lo demas sería igual.
 \***
 
 \*
 
-Comunicación de Datos y Redes 
 
 [^1]: [ https://es.wikipedia.org/wiki/Unidad_de_datos_de_protocolo ](https://es.wikipedia.org/wiki/Unidad_de_datos_de_protocolo) 

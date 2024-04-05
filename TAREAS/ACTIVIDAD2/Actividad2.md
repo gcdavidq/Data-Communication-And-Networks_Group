@@ -127,6 +127,7 @@ S1#
 
 ¿Por qué debe introducir el comando **no shutdown**? 
 
+El comando no shutdown lo utilizamos para que los comandos hechos en la interfaz se puedan ejecutar, debido a que la interfaz generalmente se encuentra cerrada, shutdown, lo que cual no permite el tráfico de datos
 
 
 **Configura el S2 con una dirección IP.** 
@@ -139,9 +140,9 @@ Usa el comando **show ip interface brief** para ver la dirección IP y el estado
 
 **Guarda la configuración para el S1 y el S2 en la NVRAM.** 
 
-
-
 ¿Qué comando se utiliza para guardar en la NVRAM el archivo de configuración que se encuentra en la RAM? 
+
+copy running-config startup-config
 
 **Verifica la conectividad de la red.** 
 

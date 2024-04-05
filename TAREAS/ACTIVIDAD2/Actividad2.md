@@ -11,7 +11,6 @@ Presenta un vídeo de a lo más 10 minutos mostrando los pasos de resolución de
 **Tabla de asignación de direcciones** 
 
 
-
 |**Dispositivo** |**Interfaz** |**Dirección IP** |**Máscara de subred** |
 | - | - | - | - |
 |S1 |VLAN 1 |192\.168.1.253 |255\.255.255.0 |

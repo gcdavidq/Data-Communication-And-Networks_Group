@@ -41,8 +41,11 @@ Tiene 24
 Tiene 2
 1) ¿Cuál es el rango de valores que se muestra para las líneas vty?
 Se muestra de 0-4 y de 5-15
-1) ¿Qué comando muestra el contenido actual de la memoria de acceso aleatorio no volátil (NVRAM)? show star
+1) ¿Qué comando muestra el contenido actual de la memoria de acceso aleatorio no volátil (NVRAM)? 
+show startup-config
+
 1) ¿Por qué el switch responde con "startup-config no está presente"?
+Debido a que aun no se guarda nada en esa memoria.
 
 
 2. **Crea una configuración básica del switch Asigna un nombre a un switch.**
@@ -74,6 +77,7 @@ Se muestra de 0-4 y de 5-15
    S1#
 
    ¿Por qué se requiere el comando **login**?
+   Es importante porque sin ejecutar ese codigo, la contraseña recien creada no funcionará. 
 
    **Verifica que el acceso a la consola sea seguro.**
 

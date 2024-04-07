@@ -163,9 +163,11 @@ S1(config)# **banner motd "This is a secure system. Authorized Access Only!** S1
 
 S1#
 
-¿Cuándo se muestra este aviso?
+**¿Cuándo se muestra este aviso?**
+Se muestra en formato de texto, lineas antes de ingresar la verificacion para configurar el switch.
 
-¿Por qué todos los switches deben tener un aviso de MOTD?
+**¿Por qué todos los switches deben tener un aviso de MOTD?**
+Debe tener un aviso para prevenir a las personas que no está autorizadas a entrar a las configuraciones.
 
 **4 .Guarda y verifica archivos de configuración en NVRAM**
 
@@ -177,9 +179,14 @@ S1# **copy running-config startup-config** Destination filename [startup-config]
 
 [OK]
 
-¿Cuál es la versión abreviada más corta del comando **copy running-config startup-config**?Examine el archivo de configuración de inicio.¿Qué comando muestra el contenido de la NVRAM?
+¿Cuál es la versión abreviada más corta del comando **copy running-config startup-config**?
+Copy r st
+
+Examine el archivo de configuración de inicio.¿Qué comando muestra el contenido de la NVRAM?
+show startup-config
 
 ¿Todos los cambios realizados están grabados en el archivo?
+Sí, se copio todo lo que está en la RAM  a la NVRAM.
 
 **5. Configura S2**
 
@@ -196,4 +203,4 @@ Hemos completado la configuración en S1. Ahora configura el S2. Si no recuerda 
 1. Guarda el archivo de configuración para evitar perderlo si el switch se apaga.
 
 g. Cierra la ventana de configuración para S2
-Comunicación de Datos y Redes
+

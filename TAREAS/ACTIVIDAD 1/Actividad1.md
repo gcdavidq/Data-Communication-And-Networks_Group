@@ -2,7 +2,7 @@
   <img src="logo_upch.png">
 </p>
 
-**Departamento Académico de Ingeniería C8280 -Comunicación de Datos y Redes**  
+**Departamento Académico de Ingeniería C8280 - Comunicación de Datos y Redes**  
 
 ---
 **Actividad 1: Creación de una red simple** 

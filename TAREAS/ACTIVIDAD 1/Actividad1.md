@@ -4,6 +4,7 @@
 
 **Departamento Académico de Ingeniería C8280 -Comunicación de Datos y Redes**  
 
+---
 **Actividad 1: Creación de una red simple** 
 
 Para completar este laboratorio vamos a utilizar Cisco Packet Tracer **Topología** 

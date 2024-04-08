@@ -8,7 +8,9 @@
 
 Para completar este laboratorio vamos a utilizar Cisco Packet Tracer **Topología** 
 
-![](Aspose.Words.8809b733-b1c9-4c4f-a744-10ca08d8b7d6.002.png)
+<p align="center">
+  <img src="image1.png">
+</p>
 
 **Tabla de direccionamiento** 
 

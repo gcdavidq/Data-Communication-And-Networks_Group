@@ -51,19 +51,19 @@ Se pueden utilizar otros switches y otras versiones de Cisco IOS.
 Paso 1: Construye la red simple configurando cada uno de los dispositivos dados. 
 
 1. En la interfaz de Packet Tracer selecciona los dispositivos dados: Switch 2960.  
-1. Click en el dispositivo y en la pestaña Config, Display Name, Hostname Cambia el nombre a S1. 
-1. Realiza el mismo procedimiento para los otros dispositivos. Llamalos PC-A, PC-B respectivamente 
-1. Selecciona el ícono Rayo de conexiones y escoge Copper Straight-Through.  
-1. Conecte un extremo de un cable Ethernet al puerto de NIC en PC-A. Conecte el otro extremo del cable a F0/6 en S1. Después de conectar la PC al switch, la luz de F0/6 debería tornarse ámbar y luego verde, lo que indica que la PC-A se conectó correctamente. 
-1. Conecte un extremo de un cable Ethernet al puerto de NIC en PC-B. Conecte el otro extremo del cable a F0/1 en S1. Después de conectar la PC al switch, la luz de F0/1 debería tornarse ámbar y luego verde, lo que indica que la PC-B se conectó correctamente. 
+2. Click en el dispositivo y en la pestaña Config, Display Name, Hostname Cambia el nombre a S1. 
+3. Realiza el mismo procedimiento para los otros dispositivos. Llamalos PC-A, PC-B respectivamente.
+4. Selecciona el ícono Rayo de conexiones y escoge Copper Straight-Through.  
+5. Conecte un extremo de un cable Ethernet al puerto de NIC en PC-A. Conecte el otro extremo del cable a F0/6 en S1. Después de conectar la PC al switch, la luz de F0/6 debería tornarse ámbar y luego verde, lo que indica que la PC-A se conectó correctamente. 
+6. Conecte un extremo de un cable Ethernet al puerto de NIC en PC-B. Conecte el otro extremo del cable a F0/1 en S1. Después de conectar la PC al switch, la luz de F0/1 debería tornarse ámbar y luego verde, lo que indica que la PC-B se conectó correctamente. 
 
 Paso 2: Verifique la configuración y la conectividad de la PC. 
 
 Use la línea de comandos para verificar la configuración de la PC y la conectividad. 
 
 1. Desde PC-A, haga clic y Desktop seleccione **Command Prompt**. 
-1. En la ventana de comandos de packet tracer, puedes introducir comandos directamente en la PC y ver los resultados de esos comandos. Verifique la configuración de la PC mediante el comando **ipconfig /all**. Este comando muestra información sobre el nombre del host de la PC y la dirección IPv4. 
-1. Escriba **ping 192.168.1.11** y presione Intro. 
+2. En la ventana de comandos de packet tracer, puedes introducir comandos directamente en la PC y ver los resultados de esos comandos. Verifique la configuración de la PC mediante el comando **ipconfig /all**. Este comando muestra información sobre el nombre del host de la PC y la dirección IPv4. 
+3. Escriba **ping 192.168.1.11** y presione Intro. 
 
    ¿Fueron correctos los resultados del ping? 
    
@@ -73,7 +73,7 @@ Use la línea de comandos para verificar la configuración de la PC y la conecti
 
    **¿Fueron correctos los resultados del ping?** 
    
-   *Tampoco no, ocurrió lo mismo que con la PCA*
+   *Tampoco, ocurrió lo mismo que con la PC-A.*
 
    **Nota**: Si no obtuvo una respuesta de PC-B, intente hacer ping a PC-B nuevamente. Si sigue sin obtener respuesta de PC-B, intente enviar un comando ping a PC-A desde PC-B.
 

@@ -1,5 +1,10 @@
-**Departamento Académico de Ingeniería  ![](Aspose.Words.70c09be1-1ec2-4bca-86ce-eb177b990b7a.001.png)C8280 -Comunicación de Datos y Redes**  
+<p align="center">
+  <img src="../../Images/logo_upch.png">
+</p>
 
+**Departamento Académico de Ingeniería C8280 - Comunicación de Datos y Redes**  
+
+---
 **Actividad 2: Implementación de una conectividad básica**
 
 Para completar este laboratorio vamos a utilizar Cisco Packet Tracer. 

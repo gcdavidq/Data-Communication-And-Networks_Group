@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_upch.png">
+  <img src="../../Images/logo_upch.png">
 </p>
 
 **Departamento Académico de Ingeniería C8280 - Comunicación de Datos y Redes**  

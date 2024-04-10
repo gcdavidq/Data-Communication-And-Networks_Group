@@ -3,7 +3,6 @@
 </p>
 
 **Departamento Académico de Ingeniería C8280 - Comunicación de Datos y Redes**  
-
 ---
 **Actividad 2: Implementación de una conectividad básica**
 

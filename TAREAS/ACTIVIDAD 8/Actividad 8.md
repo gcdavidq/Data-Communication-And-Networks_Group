@@ -2,7 +2,7 @@
 
 **Departamento Académico de Ingeniería C8280 -Comunicación de Datos y Redes** 
 
-**Actividad 5: Identificación de direcciones MACy direcciones IP**
+**Actividad 8: Comunicaciones de TCP y UDP**
 
 **Objetivos**
 

@@ -3,7 +3,6 @@
 </p>
 
 **Departamento Académico de Ingeniería C8280 - Comunicación de Datos y Redes**  
-
 ---
 
 ## **Actividad 8: Comunicaciones de TCP y UDP**

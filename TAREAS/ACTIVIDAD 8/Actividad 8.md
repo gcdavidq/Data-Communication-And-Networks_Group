@@ -1,6 +1,10 @@
-![](Aspose.Words.8eaec84a-b48a-4f93-bd2d-0bb8fde15c7e.001.png)
+<p align="center">
+  <img src="../../Images/logo_upch.png">
+</p>
 
-**Departamento Académico de Ingeniería C8280 - Comunicación de Datos y Redes** 
+**Departamento Académico de Ingeniería C8280 - Comunicación de Datos y Redes**  
+
+---
 
 ## **Actividad 8: Comunicaciones de TCP y UDP**
 

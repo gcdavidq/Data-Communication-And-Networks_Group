@@ -31,9 +31,15 @@ Paso 1: **Observa la conversión DNS.**
 
 ¿Qué dirección IP aparece en la pantalla?
 
+Me aparece 2001:420:1101:1::185
+
 ¿Es la misma que aparece en la imagen?
 
+No, no es la misma. Ademas de cambiar el IP, tambien cambia la version de este, mientras que yo tengo la version IPv6, la de la imagen es IPv4
+
 ¿Cisco.com siempre debe resolver la misma dirección IP? Explica
+
+No, cisco no siempre deve devolver la misma dirección IP. Esto se debe a que cada servidor tiene su propia IP, y cisco tiene diferentes servidores distribuidos geograficamente o servidores con una función especifica, es por ello que cuando hacemos ping, los servidores cambian, probablemente aparezca la IP del servidor más cercano geograficamente.
 
 4. Trabaja con otro estudiante y comente una o dos otras aplicaciones (además del comando **ping**) en el que la computadora necesitaría usar DNS para traducir un nombre de dominio a una dirección IP.
 
